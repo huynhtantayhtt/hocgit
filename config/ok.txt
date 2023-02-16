@@ -1,0 +1,5 @@
+/config/*
+!/config/ok.txt  
+/no.txt
+
+! là được đẩy lên
