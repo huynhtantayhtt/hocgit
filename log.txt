@@ -1,0 +1,1 @@
+Cài đặt -> ứng dụng -> Chọn J&T Sprinter -> Xoá tất cả dữ liệu -> Gỡ cài đặt -> Tải lại file cài đặt 1.1.9 và cài đặt, sau khi cài thành công đợi ~5 giây để nhận patch update mới nhất -> đăng nhập tài khoản
